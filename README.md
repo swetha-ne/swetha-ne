@@ -6,8 +6,3 @@ I have hands-on experience with both frontend and backend development, and I'm e
 
 ---
 
-## 📫 Contact
-- LinkedIn: [linkedin.com/in/swetha-ne](www.linkedin.com/in/swetha-nethmi)
-- Email: swethane28@gmail.com
-  
-Thanks for visiting my profile!
