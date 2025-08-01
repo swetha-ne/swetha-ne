@@ -1,52 +1,24 @@
-# 👋 Hello, I'm Swetha!
+# 👋 Hi, I'm Swetha
 
-🎓 2nd-year IT undergraduate at the University of Moratuwa  
-💻 Aspiring Software Engineer | Full Stack Developer | Open Source Enthusiast  
-📍 Based in Sri Lanka  
+I'm an undergraduate student at the University of Moratuwa, passionate about software development and solving real-world problems through technology.
 
----
+## 💼 Interests
+- Full Stack Development
+- UI/UX Design
+- Open Source Contributions
 
-## 💡 About Me
+## 🛠️ Technologies I Work With
+- Java, JavaScript, TypeScript, C#
+- React, JavaFX, ASP.NET Minimal API
+- MySQL, Firebase
+- Git, GitHub, 
 
-I'm passionate about building real-world tech solutions that solve meaningful problems. I enjoy working across the full stack — from crafting clean UIs to integrating scalable backends. I’m always eager to learn new technologies, participate in hackathons, and grow through hands-on projects and collaboration.
+## 📚 Currently Learning
+- Docker & CI/CD
+- Cloud platforms like AWS
+- .NET Backend Development
 
-- 🌱 Currently learning: `.NET`, `Docker`, `CI/CD`, `Cloud Technologies`
-- 🔭 Working on: AI Chatbot Admin Portal | Side projects with React & JavaFX  
-- ✍️ Writing tech blogs and exploring open source contributions  
-- 🎯 Goal: Secure a software engineering internship by end of 2025
-
----
-
-## 🛠️ Tech Stack
-
-**Languages:**  
-`Java` `TypeScript` `JavaScript` `C#` `SQL` `Python`  
-
-**Frameworks & Libraries:**  
-`React.js` `JavaFX` `Tailwind CSS` `ASP.NET Minimal API` `Node.js`  
-
-**Tools & Platforms:**  
-`VS Code` `GitHub` `Postman` `MySQL` `Firebase` `Docker`  
-
-**Other:**  
-`Linux` `Agile/Scrum` `Figma` `Scene Builder`
-
----
-
-## 📈 GitHub Stats
-
-![Swetha's GitHub Stats](https://github-readme-stats.vercel.app/api?username=your-github-username&show_icons=true&theme=radical)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=your-github-username&layout=compact&theme=radical)
-
----
-
-## 📫 Let's Connect!
-
-- 💼 [LinkedIn](https://www.linkedin.com/in/your-linkedin-profile)
-- 📝 [Blog](https://medium.com/@your-medium-handle)
-- 📧 Email: your-email@example.com
-
----
-
-_“Keep learning, keep building, and never stop growing.”_
+## 📫 Contact
+- LinkedIn: [linkedin.com/in/swetha-ne](www.linkedin.com/in/swetha-nethmi)
+- Email: swethane28@gmail.com
+Thanks for visiting my profile!
