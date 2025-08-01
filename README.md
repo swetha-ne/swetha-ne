@@ -1,8 +1,5 @@
-# 👋 Hi, I'm Swetha
+## Swetha Nethmi
 
-I'm an undergraduate student at the University of Moratuwa, currently pursuing a BSc (Hons) in Information Technology. I'm passionate about technology and innovation, and I enjoy building real-world software solutions.
+##  About Me
 
-I have hands-on experience with both frontend and backend development, and I'm especially interested in software engineering, UI/UX design, cloud computing, and artificial intelligence.
-
----
-
+Passionate about technology and innovation, with practical experience in both frontend and backend development using a range of modern frameworks. Skilled in adapting to different software architectures and comfortable working in Agile and Waterfall methodologies. Thrive under pressure and excel in collaborative, fast-paced team environments. Strong interest in mathematics and UI/UX design, with a continuous drive to learn, grow, and contribute to meaningful, real-world projects.
