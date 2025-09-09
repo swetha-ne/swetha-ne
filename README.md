@@ -2,4 +2,4 @@
 
 ##  About Me
 
-👋 I am a motivated and passionate full-stack developer with expertise in frontend and backend technologies, skilled in adapting to diverse software architectures and working within Agile and Waterfall methodologies. I am particularly interested in building scalable applications, refining UI/UX design, and solving real-world problems through innovative, high-performance solutions.
+👋 Third year IT undergraduate passionate about technology and innovation, with hands-on experience in full stack and mobile app development. Proficient in working with diverse software architectures and adaptable to both Agile and Waterfall environments. Deeply interested in mathematics, artificial intelligence, and machine learning. A fast learner and collaborative team player, eager to contribute to impactful, real-world projects. 
